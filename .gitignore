@@ -1,0 +1,9 @@
+# Dossiers générés automatiquement
+.idea/
+out/
+
+# Fichiers compilés
+*.class
+
+# Logs éventuels
+*.log
