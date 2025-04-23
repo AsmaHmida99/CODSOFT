@@ -1,9 +1,9 @@
-# Dossiers générés automatiquement
+# Automatically generated folders
 .idea/
 out/
 
-# Fichiers compilés
+# Compiled Java class files
 *.class
 
-# Logs éventuels
+# Log files (temporary or debug)
 *.log
